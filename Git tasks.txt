@@ -1,0 +1,57 @@
+task 1
+
+Create a folder
+do git init and git config
+create 3 files
+add and commit the files separately
+Connect remote repo to local repo
+push the files from local to remote
+
+task 2
+
+Create a branch
+create a file
+push the branch to your remote repo
+
+task 3
+
+Create a branch 
+push the branch to remote repo
+delete the branch only in remote repo not in local
+
+task 4
+Go to master
+merge the branch
+push it to remote repo
+
+task 5
+
+Create a file in master
+push the file to remote repo
+create a file in branch
+push the file to remote repo
+go to master
+try to merge the branch
+push it to remote repo
+
+task 6
+
+add content in master(file1)
+push it to remote repo
+add content in branch(file1)
+push it to remote repo
+Go to master
+try to merge branch
+-----conflict
+solve the conflict
+add and commit
+push it to remote repo
+
+task 7
+Create a file in master
+push the file to remote repo
+create a file in branch
+push the file to remote repo
+go to master
+try to merge the branch without using merge command
+push it to remote repo
